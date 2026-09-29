@@ -2,6 +2,8 @@
 
 A clean, responsive to-do list built with React and Tailwind CSS for the HNG internship.
 
+**Live site:** https://joel-797.github.io/hng-todo-list/
+
 ## Features
 
 - Add, complete, edit, and delete tasks
